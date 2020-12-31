@@ -1,0 +1,17 @@
+.fab {
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+   color:rgb(27, 27, 27);
+    
+    
+  }
+  
+  .fab:hover {
+      opacity: 0.7;
+  }
+  
+  
+
+  
